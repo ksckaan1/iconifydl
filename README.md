@@ -6,12 +6,12 @@ Download icons from [Iconify](https://iconify.design)
 
 ## Install
 
-```bash 
+```sh 
 go install github.com/ksckaan1/iconifydl@latest
 ```
 
 ## Usage
 
-```bash
+```sh
 iconifydl ./icons
 ```
