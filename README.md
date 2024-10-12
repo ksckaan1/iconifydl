@@ -15,3 +15,7 @@ go install github.com/ksckaan1/iconifydl@latest
 ```sh
 iconifydl ./icons
 ```
+
+## Example
+
+![example](./usage.gif)
