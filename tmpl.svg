@@ -1,0 +1,1 @@
+<svg xmlns="http://www.w3.org/2000/svg"{{if ne .Width ""}} width="{{.Width}}"{{end}}{{if ne .Height ""}} height="{{.Height}}"{{end}} viewBox="0 0 {{.CanvasWidth}} {{.CanvasHeight}}">{{.Body}}</svg>
